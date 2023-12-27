@@ -9,7 +9,7 @@
 
 header {
     width: 100%;
-    height: 10vh;
+    height: 60px;
 
     display: flex;
     gap: 1rem;
@@ -88,7 +88,7 @@ main h2 {
 
 footer {
     border-top: 1px solid #dbdbdb;
-    height: 10vh;
+    height: 60px;
 
     display: flex;
     align-items: center;
